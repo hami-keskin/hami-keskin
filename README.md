@@ -9,7 +9,7 @@ I am passionate about working with software. I enjoy learning, thinking, and wri
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [hami.kskin@gmail.com](mailto:hami.kskin@gmail.com)
 * 🧠  I'm learning React, Flutter, Solidity, Python
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
